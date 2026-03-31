@@ -39,6 +39,12 @@ The dataset contains ~900 rows and 15+ features, representing employee-related i
 | Annual_Bonus_Squared       | Engineered feature (bonus²) |
 | Bonus_Training_Interaction | Interaction feature         |
 
+#### 🎯 Target Variable:
+Employee_Turnover →
+
+1 = Employee Left
+0 = Employee Stayed
+
 #### 🧹 Data Preprocessing
 
 ✔ Handled missing values
